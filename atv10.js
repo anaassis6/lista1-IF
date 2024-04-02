@@ -11,7 +11,7 @@ O programa deve no final emitir uma classificação sobre a participação da pe
 a pessoa responder positivamente a 2 questões ela deve ser classificada/exibida como
 &quot;Suspeita&quot;, entre 3 e 4 como &quot;Cúmplice&quot; e 5 como &quot;Assassino&quot;. Caso contrário, ele será
 classificado como &quot;Inocente&quot;.
-Aluno:
+Aluno:Ana Luiza de Assis
 */
 var cont = 0;
 var teclado = require("prompt-sync")();
